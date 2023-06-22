@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int n,sum=0,reverse_num=0,remaindar=0;
+    int n,reverse_num=0,remaindar=0;
 
     cout << "Enter Number: ";
     cin >> n;
