@@ -13,9 +13,9 @@ void ArmstrongNumber(int number){
     }
 
     if(temp == sum){
-        cout << temp << " is a prime number";
+        cout << temp << " is a Armstrong number";
     }else{
-        cout << temp << " is not a prime number";
+        cout << temp << " is not a Armstrong number";
     }
 }
 
